@@ -3,10 +3,10 @@
 DriverPass Project Reflection
 
 1. Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
-2. 
+
 The client was DriverPass, a company that wanted to help students prepare for their driving tests. They needed a web-based system where students could take online classes, complete practice tests, purchase training packages, and schedule driving lessons. The system also needed to help employees manage appointments, instructors, vehicles, and student information.
 
-3. What did you do particularly well?
+2. What did you do particularly well?
 
 I think I did a good job identifying the system requirements and keeping the design simple and organized. I was able to break down the different functions of the system and show how they would work using UML diagrams. I also made sure to consider both the students and employees who would be using the system.
 
